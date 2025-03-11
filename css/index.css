@@ -1,0 +1,25 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+} */
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.form-container {
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 25px;
+}
+
